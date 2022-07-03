@@ -13,7 +13,9 @@
 <br>
 <br>
 
+<div align="center">
 <a href="https://github.com/anilhacioglu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anilhacioglu&theme=dracula" /></a> <a href="https://github.com/anilhacioglu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anilhacioglu&text_color=FFFFFF&title_color=FFFFFF&hide_border=true&layout=compact&langs_count=10&theme=dracula" /></a>
+</div>
 
 <br>
 <br>
