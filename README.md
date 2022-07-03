@@ -1,6 +1,8 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Anıl</h1>
-<h4 align="center">Biomedical Engineer who loves to coding</h4>
+<h1 align="center">Hi </h1>
+<h2 align="center"> <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> </h2>
+<h3 align="center">I'm Anıl </h3>
+<h4 align="center">Biomedical Engineer who loves to coding </h4>
 </div>
 
 <div align="center">
