@@ -1,15 +1,14 @@
 <div align="center">
-<h1 align="center">Hi </h1>
-<div align="center"> <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> </div>
+  <a href="https://i.hizliresim.com/ncod7j1.gif">
+  <img src="https://i.hizliresim.com/ncod7j1.gif" width="500px
+       alt="hello world!" /></a>
+</div><br>
+
 <h3 align="center">I'm Anıl </h3>
 <h4 align="center">Biomedical Engineer who loves to coding </h4>
 </div>
 
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div><br>
+
 <br>
 <br>
 
@@ -42,3 +41,4 @@
 ### Contact me:
 
 <a href="https://www.linkedin.com/in/an%C4%B1l-hac%C4%B1o%C4%9Flu-3ab913172/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35px" height="35px"></a>  <a href="mailto:anilhacioglu02@gmail.com" target="_blank"><img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" width="35px" height="35px"></a>
+
